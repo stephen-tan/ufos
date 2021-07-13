@@ -4,7 +4,9 @@
 The purpose of this project was to web scrape data from several websites to gather the Mars information and display the results on a customized webpage using Bootstrap, Flask, and MongoDB.<br/>
 
 ## Results
-The webpage has five filters, each with placeholders for examples on how to input a search criteria. One thing to note is that not all filters have to be used. Once a filter is input in the text box, the user needs to hit the 'Enter' key on the keyboard to initiate the filter. More than one filter is also able to be entered. </br> In order to reset the filters, the webpage can be refreshed or the filters can be deleted and then the 'Enter' key should be pressed again.
+The webpage has five filter text boxes on the lefthand side, each with placeholders for examples on how to input a search criteria. One thing to note is that not all filters have to be used. Once a filter is input in the text box, the user needs to hit the 'Enter' key on the keyboard to initiate the filter. More than one filter is also able to be entered. </br></br>
+
+In order to reset the filters, the webpage can be refreshed or the filters can be deleted and then the 'Enter' key should be pressed again.
 
 <p align="center">
   <img src="https://github.com/stephen-tan/ufos/blob/main/markdown/webpage.png" alt="Webpage"/>
